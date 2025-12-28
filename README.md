@@ -34,7 +34,7 @@ Link frames to show navigation or interactions.
 Select the specific frame while generating code using Anima plugin.
 
 ## CODE:
-- - -
+~~~
 Home page 
 
 <!DOCTYPE html>
@@ -119,7 +119,7 @@ page 3
   </body>
 </html>
 
-- - -
+~~~
 
 
 ## OUTPUT:
